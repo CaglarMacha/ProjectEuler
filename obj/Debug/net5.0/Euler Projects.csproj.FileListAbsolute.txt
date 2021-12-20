@@ -1,0 +1,15 @@
+/Users/caglarayhan/Desktop/Euler Projects/bin/Debug/net5.0/Euler Projects.deps.json
+/Users/caglarayhan/Desktop/Euler Projects/bin/Debug/net5.0/Euler Projects.runtimeconfig.json
+/Users/caglarayhan/Desktop/Euler Projects/bin/Debug/net5.0/Euler Projects.runtimeconfig.dev.json
+/Users/caglarayhan/Desktop/Euler Projects/bin/Debug/net5.0/Euler Projects.dll
+/Users/caglarayhan/Desktop/Euler Projects/bin/Debug/net5.0/ref/Euler Projects.dll
+/Users/caglarayhan/Desktop/Euler Projects/bin/Debug/net5.0/Euler Projects.pdb
+/Users/caglarayhan/Desktop/Euler Projects/obj/Debug/net5.0/Euler Projects.csproj.AssemblyReference.cache
+/Users/caglarayhan/Desktop/Euler Projects/obj/Debug/net5.0/Euler Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caglarayhan/Desktop/Euler Projects/obj/Debug/net5.0/Euler Projects.AssemblyInfoInputs.cache
+/Users/caglarayhan/Desktop/Euler Projects/obj/Debug/net5.0/Euler Projects.AssemblyInfo.cs
+/Users/caglarayhan/Desktop/Euler Projects/obj/Debug/net5.0/Euler Projects.csproj.CoreCompileInputs.cache
+/Users/caglarayhan/Desktop/Euler Projects/obj/Debug/net5.0/Euler Projects.dll
+/Users/caglarayhan/Desktop/Euler Projects/obj/Debug/net5.0/ref/Euler Projects.dll
+/Users/caglarayhan/Desktop/Euler Projects/obj/Debug/net5.0/Euler Projects.pdb
+/Users/caglarayhan/Desktop/Euler Projects/obj/Debug/net5.0/Euler Projects.genruntimeconfig.cache
